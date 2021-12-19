@@ -80,6 +80,7 @@ export const StyledImg = styled.img`
   background-color: rgb(0,0,0);
   border-radius: 100%;
   width: 200px;
+  opacity: 0;
   @media (min-width: 900px) {
     width: 250px;
   }
@@ -206,9 +207,9 @@ function App() {
         </a>
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
-//           <s.Container flex={1} jc={"center"} ai={"center"}>
-//             <StyledImg alt={"example"} src={"/config/images/example.gif"} />
-//           </s.Container>
+          <s.Container flex={1} jc={"center"} ai={"center"}>
+            <StyledImg alt={"example"} src={"/config/images/example.gif"} />
+          </s.Container>
           <s.SpacerLarge />
           <s.Container
             flex={2}
@@ -398,13 +399,13 @@ function App() {
             <s.SpacerMedium />
           </s.Container>
           <s.SpacerLarge />
-//           <s.Container flex={1} jc={"center"} ai={"center"}>
-//             <StyledImg
-//               alt={"example"}
-//               src={"/config/images/example.gif"}
-//               style={{ transform: "scaleX(-1)" }}
-//             />
-//           </s.Container>
+          <s.Container flex={1} jc={"center"} ai={"center"}>
+            <StyledImg
+              alt={"example"}
+              src={"/config/images/example.gif"}
+              style={{ transform: "scaleX(-1)" }}
+            />
+          </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
         <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
