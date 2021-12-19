@@ -80,7 +80,6 @@ export const StyledImg = styled.img`
   background-color: rgb(0,0,0);
   border-radius: 100%;
   width: 200px;
-  opacity: 0;
   @media (min-width: 900px) {
     width: 250px;
   }
