@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x7ACa022c7511f9C68634238B145D939858C2bf69",
   "SCAN_LINK": "https://etherscan.io/address/0x7ACa022c7511f9C68634238B145D939858C2bf69",
   "NETWORK": {
-    "NAME": "Goerli",
+    "NAME": "Kovan",
     "SYMBOL": "Eth",
-    "ID": 5
+    "ID":42
   },
   "NFT_NAME": "Zero Day Loot Test",
   "SYMBOL": "ZDLTTTT",
