@@ -6,8 +6,8 @@
     "SYMBOL": "Eth",
     "ID":42
   },
-  "NFT_NAME": "Zero Day Loot Test",
-  "SYMBOL": "ZDLTTTT",
+  "NFT_NAME": "Zero Day Loot Testing",
+  "SYMBOL": "ZDLTR",
   "MAX_SUPPLY": 7777,
   "WEI_COST": 1000000000000000,
   "DISPLAY_COST": 0.001,
