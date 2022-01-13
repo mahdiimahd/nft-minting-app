@@ -250,7 +250,7 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.pdf", "_blank");
+                  window.open("https://boring-bardeen-f0ea18.netlify.app/roadmap/dist/index.html", "_blank");
                 }}
                 style={{
                   margin: "5px",
