@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x81B0961730005999cb9823cB63c501FFC5023ec5",
-  "SCAN_LINK": "https://etherscan.io/address/0x81B0961730005999cb9823cB63c501FFC5023ec5",
+  "CONTRACT_ADDRESS": "0x0xDcD7388FeFf84359b0CA594E8E754dFc5fb3598F",
+  "SCAN_LINK": "https://etherscan.io/address/0xDcD7388FeFf84359b0CA594E8E754dFc5fb3598F",
   "NETWORK": {
     "NAME": "Kovan",
     "SYMBOL": "Eth",
     "ID":42
   },
-  "NFT_NAME": "Zero Day Loot Testing",
+  "NFT_NAME": "Zéro Day Loot",
   "SYMBOL": "ZDLK",
   "MAX_SUPPLY": 7777,
   "WEI_COST": 1000000000000000,
-  "DISPLAY_COST": 0.001,
+  "DISPLAY_COST": 0.0444,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
