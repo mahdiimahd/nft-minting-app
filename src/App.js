@@ -299,7 +299,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Excluding gas fees.
+                  Excluding gas fees. We are still testing! Minting will open soon.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
