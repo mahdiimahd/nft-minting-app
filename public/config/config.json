@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x863A4e55A1099f3230ca433281DB4b24d19A0233",
-  "SCAN_LINK": "https://etherscan.io/address/0x863A4e55A1099f3230ca433281DB4b24d19A0233",
+  "CONTRACT_ADDRESS": "0x75a56DB074CAFcf81337c68dF414A0988a8C4eB1",
+  "SCAN_LINK": "https://etherscan.io/address/0x75a56DB074CAFcf81337c68dF414A0988a8C4eB1",
   "NETWORK": {
     "NAME": "Kovan",
     "SYMBOL": "Eth",
     "ID":42
   },
-  "NFT_NAME": "Zéro Day Loot (T)",
-  "SYMBOL": "ZDLT",
+  "NFT_NAME": "Zéro Day Loot (T1)",
+  "SYMBOL": "ZDLT1",
   "MAX_SUPPLY": 7777,
   "WEI_COST": 1000000000000000,
   "DISPLAY_COST": 0.0444,
